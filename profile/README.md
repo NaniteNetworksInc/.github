@@ -3,7 +3,7 @@
 
 ## Our Links
 - **Website**: [nanitenetworks.com](http://nanitenetworks.com/)
-- **Twitter**: [@knanitenetworks](https://twitter.com/nanitenetworks)
+- **Twitter**: [@nanitenetworks](https://twitter.com/nanitenetworks)
 - **Discord**: [Nanite Networks Discord](https://discord.gg/GX5C9Je2gE)
 
 ## Our Subsidiaries
