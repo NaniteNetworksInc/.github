@@ -1,5 +1,5 @@
-## About Krixio Digital
-> Krixio Digital, LLC builds, owns, and operates multiple cutting-edge brands—powering innovation and growth across the digital space.
+## About Nanite Networks
+> Nanite Networks specializes in comprehensive infrastructure solutions that empower businesses, creators, and communities.
 
 ## Our Links
 - **Website**: [nanitenetworks.com](http://nanitenetworks.com/)
@@ -13,7 +13,7 @@
   - Discord: [Join BlitzNode Discord](https://discord.gg/nWysbCYmNB)
 
 ## Contact Us
-- **General Enquiries**: [hello@krixio.digital](mailto:hello@krixio.digital)
-- **Legal Enquiries** (DMCA, Legal requests): [legal@krixio.digital](mailto:legal@krixio.digital)
+- **General Enquiries**: [hello@nanitenetworks.com](mailto:hello@nanitenetworks.com)
+- **Legal Enquiries** (DMCA, Legal requests): [legal@nanitenetworks.com](mailto:legal@nanitenetworks.com)
 
 
