@@ -2,9 +2,9 @@
 > Krixio Digital, LLC builds, owns, and operates multiple cutting-edge brands—powering innovation and growth across the digital space.
 
 ## Our Links
-- **Website**: [krixio.digital](https://krixio.digital)
-- **Twitter**: [@krixiodigital](https://twitter.com/KrixioDigital)
-- **Discord**: [Krixio Digital Discord](https://discord.gg/GX5C9Je2gE)
+- **Website**: [nanitenetworks.com](http://nanitenetworks.com/)
+- **Twitter**: [@knanitenetworks](https://twitter.com/nanitenetworks)
+- **Discord**: [Nanite Networks Discord](https://discord.gg/GX5C9Je2gE)
 
 ## Our Subsidiaries
 - **BlitzNode**
